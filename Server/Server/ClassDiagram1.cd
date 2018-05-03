@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Multiplayer_Server.Game">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAgAAAAAEAAAAAAAAAAAAI=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multiplayer_Server.HiResTimer">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACBAAAAAAAAAAAIAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>HiResTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multiplayer_Server.Lobby">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAEACAAAQASAEgAAgAIEAAAAAAACkAAAAAA=</HashCode>
+      <FileName>Lobby.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multiplayer_Server.Match">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQQAMEAAAMACAEKQAQEAgAAAAKEAQAAAAACAIAAAAA=</HashCode>
+      <FileName>Match.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Multiplayer_Server.playerLobbyData">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAFAAAIIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structures.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Multiplayer_Server.playerGameData">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAIAEAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structures.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
